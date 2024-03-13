@@ -14,11 +14,11 @@ src: url(./fonts/static/Inter-Bold.ttf);
 }
 @font-face{
 font-family: inter4;
-src: url(fonts/static/Inter-Regular.ttf);
+src: url(./fonts/static/Inter-Regular.ttf);
 }
 @font-face{
 font-family: inter5;
-src: url(fonts/static/Inter-SemiBold.ttf);
+src: url(./fonts/static/Inter-SemiBold.ttf);
 }
 *{
     margin: 0;
