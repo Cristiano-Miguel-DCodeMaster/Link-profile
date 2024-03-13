@@ -71,6 +71,7 @@ p{
 .p1{
     color: var(--Green);
     padding-top: 12px;
+    font-weight:800;
 }
 .p2{
 color: var(--White);
