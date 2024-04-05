@@ -1,24 +1,24 @@
 @charset "utf-8";
 
 @font-face{
-font-family: inter;
-src: url(fonts/Inter-VariableFont_slnt\,wght.ttf);
+font-family: inter1;
+src: url(/fonts/Inter-VariableFont_slnt\,wght.ttf);
 }
 @font-face{
 font-family: inter2;
-src: url(fonts/OFL.txt);
+src: url(/fonts/OFL.txt);
 }
 @font-face{
 font-family: inter3;
-src: url(fonts/static/Inter-Bold.ttf);
+src: url(/fonts/static/Inter-Bold.ttf);
 }
 @font-face{
 font-family: inter4;
-src: url(fonts/static/Inter-Regular.ttf);
+src: url(/fonts/static/Inter-Regular.ttf);
 }
 @font-face{
 font-family: inter5;
-src: url(fonts/static/Inter-SemiBold.ttf);
+src: url(/fonts/static/Inter-SemiBold.ttf);
 }
 *{
     margin: 0;
