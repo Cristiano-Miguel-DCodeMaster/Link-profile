@@ -1,6 +1,7 @@
 @charset "utf-8";
 
 @font-face{
+<<<<<<< HEAD
 font-family: inter1;
 src: url(/fonts/Inter-VariableFont_slnt\,wght.ttf);
 }
@@ -19,6 +20,26 @@ src: url(/fonts/static/Inter-Regular.ttf);
 @font-face{
 font-family: inter5;
 src: url(/fonts/static/Inter-SemiBold.ttf);
+=======
+font-family: inter;
+src: url(./fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+@font-face{
+font-family: inter2;
+src: url(./fonts/OFL.txt);
+}
+@font-face{
+font-family: inter3;
+src: url(./fonts/static/Inter-Bold.ttf);
+}
+@font-face{
+font-family: inter4;
+src: url(./fonts/static/Inter-Regular.ttf);
+}
+@font-face{
+font-family: inter5;
+src: url(./fonts/static/Inter-SemiBold.ttf);
+>>>>>>> 4a6a1bbc79f88541021b79dfa69d57696deac51d
 }
 *{
     margin: 0;
@@ -71,6 +92,7 @@ p{
 .p1{
     color: var(--Green);
     padding-top: 12px;
+    font-weight:800;
 }
 .p2{
 color: var(--White);
