@@ -1,7 +1,5 @@
 @charset "utf-8";
-
 @font-face{
-<<<<<<< HEAD
 font-family: inter1;
 src: url(/fonts/Inter-VariableFont_slnt\,wght.ttf);
 }
@@ -20,7 +18,6 @@ src: url(/fonts/static/Inter-Regular.ttf);
 @font-face{
 font-family: inter5;
 src: url(/fonts/static/Inter-SemiBold.ttf);
-=======
 font-family: inter;
 src: url(./fonts/Inter-VariableFont_slnt\,wght.ttf);
 }
@@ -39,7 +36,6 @@ src: url(./fonts/static/Inter-Regular.ttf);
 @font-face{
 font-family: inter5;
 src: url(./fonts/static/Inter-SemiBold.ttf);
->>>>>>> 4a6a1bbc79f88541021b79dfa69d57696deac51d
 }
 *{
     margin: 0;
@@ -130,6 +126,7 @@ font-size: 14px;
         width: 23%;
         height: fit-content;
         padding-top: 2%;
+
     }
     img{
         width: 30%;
